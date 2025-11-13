@@ -35,4 +35,3 @@ It’s designed for reliability, minimal resources, and easy modification — id
 
 ---
 
-Would you like me to rewrite your code to make it **clean, formatted, and error-free** (so indentation, imports, and comments are all fixed)? It’d look great in a README or as a separate `.py` file.
